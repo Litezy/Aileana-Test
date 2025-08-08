@@ -18,13 +18,14 @@ This is the backend API for the Ailena Test Assessment. It includes user authent
 
 ## 🛠️ Tech Stack
 
-- Node.js / Express.js
-- PostgreSQL (via Prisma ORM)
-- Socket.IO
-- Swagger for API Docs
-- JWT for authentication
+- **Node.js / Express.js** – Backend runtime and framework used for building RESTful APIs
+- **PostgreSQL (via Prisma ORM)** – Relational database used to store and manage application data
+- **Socket.IO** – Real-time bidirectional communication for messaging features
+- **Swagger** – Interactive documentation for exploring and testing API endpoints
+- **JWT (JSON Web Tokens)** – Secure token-based user authentication
 
----
+> ⚠️ **Note:** Firebase was not integrated in this implementation as the system was designed using PostgreSQL and real-time communication handled via Socket.IO. However, the architecture is flexible and can be extended to incorporate Firebase for features like push notifications, Firestore, or authentication if required.
+
 
 ## 📦 Setup Instructions
 
