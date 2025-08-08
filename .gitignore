@@ -8,3 +8,7 @@ node_modules/
 # Prisma generated files
 /generated/prisma
 /prisma
+
+# Uploads (file/image uploads)
+uploads/
+/uploads
