@@ -69,7 +69,7 @@ This is the backend API for the Ailena Test Assessment. It includes user authent
 
 ## 🧪 API Testing Guide
 
-You can test endpoints using Postman or via Swagger at `/api-docs`.
+You can test endpoints using Swagger at `/api-docs`.
 
 ---
 
